@@ -96304,7 +96304,7 @@ b4=J.bi(a0.$1(5))!==0?"pb25":a0.$1(5)
 b5=J.bi(a0.$1(6))!==0?"pb30":a0.$1(6)
 b6=J.bi(a0.$1(7))!==0?"pb35":a0.$1(7)
 s=22
-return A.G(a9.cl(0,A.ac([b0,null,b1,null,b2,null,b3,null,b4,null,b5,null,b6,null,J.bi(a0.$1(8))!==0?"pb40":a0.$1(8),null],a7,a7)).l8("no_rangka",a0.$1(0)).l8("kode_dealer",b9),$async$oY)
+return A.G(a9.cl(0,A.ac([b0,"ck1",b1,"ck2",b2,"pb15",b3,"pb20",b4,"pb25",b5,"pb30",b6,"pb35",J.bi(a0.$1(8))!==0?"pb40":a0.$1(8),"pb40"],a7,a7)).l8("no_rangka",a0.$1(0)).l8("kode_dealer",b9),$async$oY)
 case 22:case 20:++b
 s=19
 break
